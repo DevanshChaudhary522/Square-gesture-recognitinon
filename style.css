@@ -1,0 +1,24 @@
+.heading {
+    color: lightcoral;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 20px grey;
+}
+.note {
+    font-size: 15px;
+    color: black;
+}
+.footer_developed {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: lightblue;
+    box-shadow: 15px 15px 20px grey;
+    bottom: 0;
+}
+canvas {
+   border-radius: 20px;
+   border: 5px blueviolet;
+   box-shadow: 10px 10px 20px grey;
+}
